@@ -26,13 +26,13 @@ End the program and close the output image windows.
 # Developed By:SHARMILA
 # Register Number:212221230094
 ```
-
+```
 import cv2
 img=cv2.imread('mo.jpg')
 cv2.imshow('Org_img',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
+```
 # Write your code to find the histogram of gray scale image and color image channels.
 ```
 hsv_img=cv2.cvtColor(img,cv2.COLOR_BGR2HSV)
