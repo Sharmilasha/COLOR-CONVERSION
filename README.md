@@ -105,11 +105,14 @@ cv2.merge((h,s,v))
 
 ### iv) Split and merge RGB Image
 ![dip 3 10](https://github.com/Sharmilasha/COLOR-CONVERSION/assets/94506182/7bc9dfef-58fd-4894-b743-02d7c12ebd7d)
+![dip 3 11](https://github.com/Sharmilasha/COLOR-CONVERSION/assets/94506182/6bb4894a-edfe-4cc9-b484-bcf5a52866e6)
+
 
 
 ### v) Split and merge HSV Image
 ![dip 3 11](https://github.com/Sharmilasha/COLOR-CONVERSION/assets/94506182/6bb4894a-edfe-4cc9-b484-bcf5a52866e6)
 
+![dip  3 12](https://github.com/Sharmilasha/COLOR-CONVERSION/assets/94506182/77dc9551-575b-4a68-b84b-76c362ae25a4)
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
